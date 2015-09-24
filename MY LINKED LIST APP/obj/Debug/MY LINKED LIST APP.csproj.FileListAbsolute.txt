@@ -1,0 +1,6 @@
+C:\my projects\MY LINKED LIST APP\bin\Debug\MY LINKED LIST APP.exe.config
+C:\my projects\MY LINKED LIST APP\obj\Debug\MY LINKED LIST APP.csprojResolveAssemblyReference.cache
+C:\my projects\MY LINKED LIST APP\bin\Debug\MY LINKED LIST APP.exe
+C:\my projects\MY LINKED LIST APP\bin\Debug\MY LINKED LIST APP.pdb
+C:\my projects\MY LINKED LIST APP\obj\Debug\MY LINKED LIST APP.exe
+C:\my projects\MY LINKED LIST APP\obj\Debug\MY LINKED LIST APP.pdb
